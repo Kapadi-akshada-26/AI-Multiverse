@@ -4,6 +4,11 @@ A simple interactive AI chatbot built with **Streamlit** and the **Google Gemini
 
 The application allows users to chat with Gemini using different creative AI personalities and control how intensely the selected personality behaves.
 
+## 🚀 Try it Now
+
+**🌐 Live Demo:** 
+https://kapadi-akshada-26-ai-multiverse-app-jqcvvs.streamlit.app/
+
 ## ✨ Features
 
 * 🎭 Multiple AI personalities
